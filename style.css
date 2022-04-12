@@ -211,3 +211,18 @@ li {
     background-color: inherit;
     border:2px solid #f9faf8;
 }
+
+.footer {
+    background-color:  #1f2937;
+    color: #f9faf8;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:1;
+}
+
+.footer p{
+    margin-top: 0;
+}
