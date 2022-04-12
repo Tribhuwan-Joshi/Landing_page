@@ -10,7 +10,7 @@ body {
   background-color: #1f2937;
   color: beige;
   padding: 10px 0px;
-  height: 500px;
+  height: 450px;
 }
 
 .navbar {
@@ -49,7 +49,7 @@ li {
   display: flex;
   justify-content: center;
   
-  margin-top: 100px;
+  margin-top: 90px;
 }
 
 .header-main .left-text {
